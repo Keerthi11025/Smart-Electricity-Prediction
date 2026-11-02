@@ -1,0 +1,10 @@
+{
+    "model": "LSTM (2-layer stacked)",
+    "sequence_length_days": 7,
+    "epochs_trained": 21,
+    "test_mae_kwh": 4.2489,
+    "test_rmse_kwh": 5.4414,
+    "test_mape_pct": 21.18,
+    "naive_mae_kwh": 4.523,
+    "improvement_over_naive_pct": 6.1
+}
